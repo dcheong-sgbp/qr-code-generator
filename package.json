@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/qr-code",
+  "version": "1.0.0",
+  "description": "Turn any URL or text into a scannable QR code and download it as PNG. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "qr-code.js",
+  "unpkg": "qr-code.js",
+  "files": ["qr-code.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "qr code generator", "generate qr code", "qr code for a link"],
+  "homepage": "https://sgbp.tech/tools/qr-code-generator",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
