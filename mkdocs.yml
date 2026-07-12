@@ -1,0 +1,8 @@
+site_name: QR Code Generator
+site_description: Turn any URL or text into a scannable QR code and download it as PNG.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
